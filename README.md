@@ -4,6 +4,8 @@
 
 Version control is a system for keeping track of changes you’ve made to a file over a period of time. 
 
+Dr. Strange analogies ftw!
+
 ### Why do we NEED it?
 
 -  Software development is an iterative process. Having the ability to store versions and variations of code we’re writing allows us to go to look at older versions. Create checkpoints when we’re able to implement specific ideas and do a lot more.
